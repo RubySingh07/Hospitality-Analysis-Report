@@ -1,5 +1,5 @@
 # Hospitality-Analysis-Report
-Hospitality Analysis Report
+
 Greetings, everyone!
 
 I've successfully completed a fascinating project in the hospitality domain, and I'm excited to introduce you to "Revenue Insights in the Hospitality Industry."
